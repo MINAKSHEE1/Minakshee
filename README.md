@@ -1,4 +1,4 @@
-# minakshee demo
+# minakshee 
 This is my first git repositery
 <br>
-Author- Minakshee zope
+Author - Minakshee zope
